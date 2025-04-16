@@ -1,0 +1,6 @@
+﻿  lab1_visual.cpp
+  Methods.cpp
+  Useful.cpp
+D:\Projects\Lab1\Lab1\Useful.cpp(73,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Lab1.vcxproj -> D:\Projects\Lab1\x64\Debug\Lab1.exe
