@@ -16,6 +16,7 @@ int main() {
     srand(time(nullptr));
 
     bool flag = true;
+
     do {
         int highlight = lab1_visual();
         switch (highlight - 6)
@@ -98,7 +99,7 @@ int main() {
             flag = false;
             break;
         }
-        //asdfsad123
+        //asdfsad123456
         }
 
     } while (flag == true);
